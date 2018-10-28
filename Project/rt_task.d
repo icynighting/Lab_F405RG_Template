@@ -1,0 +1,9 @@
+.\rt_task.o: ..\RTX\src\rt_Task.c
+.\rt_task.o: ..\RTX\inc\rt_TypeDef.h
+.\rt_task.o: ..\RTX\inc\RTX_Config.h
+.\rt_task.o: ..\RTX\inc\rt_System.h
+.\rt_task.o: ..\RTX\inc\rt_Task.h
+.\rt_task.o: ..\RTX\inc\rt_List.h
+.\rt_task.o: ..\RTX\inc\rt_MemBox.h
+.\rt_task.o: ..\RTX\inc\rt_Robin.h
+.\rt_task.o: ..\RTX\portable\rt_HAL_CM.h
